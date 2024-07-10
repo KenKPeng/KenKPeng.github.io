@@ -25,14 +25,12 @@ author:
   name             : "Ken (Kangyi) Peng"
   pronouns         : # example: "he/him"  
   bio              : "Ph.D. candidate"
-  location         : "8888 University Dr W, Burnaby, BC V5A 1S6"
   employer         : "Simon Fraser University"
   uri              : # URL
   email            : "kangyi_peng@sfu.ca" 
 
   # Academic websites
-  linkedin         : "https://www.linkedin.com/in/kangyip"
-  SFU SAG            : "https://www.sfu.ca/sports-analytics-group/who-we-are/student-members.html"
+  SFU SAG          : "https://www.sfu.ca/sports-analytics-group/who-we-are/student-members.html"
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -58,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/kangyip"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
