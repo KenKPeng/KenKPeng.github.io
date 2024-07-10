@@ -21,14 +21,14 @@ repository               : "kenkpeng/kenkpeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "1707366221027.png"
+  name             : "Ken (Kangyi) Peng"
+  pronouns         : # example: "he/him"  
+  bio              : "Ph.D. candidate"
+  location         : "8888 University Dr W, Burnaby, BC V5A 1S6"
+  employer         : "Simon Fraser University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kangyi_peng@sfu.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
