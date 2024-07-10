@@ -12,7 +12,7 @@ title                    : "Ken(Kangyi) Peng"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Be strong"
-url                      : https://kkpeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kenp666/KKPeng.github.io"
 
