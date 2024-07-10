@@ -11,9 +11,12 @@ Welcome! I'm a Ph.D. candidate in Statistics at Simon Fraser University. My Ph.D
 
 Education
 ======
-- Ph.D. in Statistics, Simon Fraser University, Canada
+- Ph.D. in Statistics, [Simon Fraser University](https://www.sfu.ca/), Canada
+  Supervision: [Dr. Joan Hu](https://www.sfu.ca/~joanh/) and Professor [Dr. Tim Swartz](https://www.sfu.ca/~tswartz/)
 - M.Sc. in Statistics, Simon Fraser University, Canada, 2022
+  Supervision: [Dr. Tim Swartz](https://www.sfu.ca/~tswartz/) and [Dr. Gary Parker](https://www.sfu.ca/~gparker/) and Professor
 - B.Sc. in Statistics, Simon Fraser University, Canada, 2020
+  
 
 
 
