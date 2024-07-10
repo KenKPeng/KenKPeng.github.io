@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "files/Ken_CV.pdf"
+    url: 'http://academicpages.github.io/files/paper1.pdf'
 
   - title: #"Talks"
     url: #/talks/    
