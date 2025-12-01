@@ -15,7 +15,7 @@ Beyond academia, I'm the co-founder and chief data scientist of [AccMov](https:/
 
 Education
 ======
-- Ph.D. in Statistics, [Simon Fraser University](https://www.sfu.ca/), Canada， 2025
+- Ph.D. in Statistics, [Simon Fraser University](https://www.sfu.ca/), Canada, 2025
   
   Supervision: [Dr. Joan Hu](https://www.sfu.ca/~joanh/) and [Dr. Tim Swartz](https://www.sfu.ca/~tswartz/)
 - M.Sc. in Statistics, Simon Fraser University, Canada, 2022
