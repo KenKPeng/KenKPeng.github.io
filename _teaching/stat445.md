@@ -24,6 +24,5 @@ permalink: /teaching/stat445/
 ## Lecture Notes
 - [Lecture 1: Course overview & motivation](/files/stat445/Introduction.pdf)
 
-> These notes are high-level lecture summaries provided for general reference only.  
-> Official course materials, assignments, and assessments are available exclusively to enrolled students via Canvas.
+> These notes are lecture summaries provided for general reference only.  
 
