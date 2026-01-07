@@ -2,6 +2,9 @@
 title: "STAT 445/645 – Applied Multivariate Analysis"
 collection: teaching
 permalink: /teaching/stat445/
+venue: "Simon Fraser University"
+location: "Burnaby, BC"
+date: 2026-01-06
 ---
 
 **Institution:** Simon Fraser University  
