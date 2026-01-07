@@ -10,7 +10,12 @@ permalink: /teaching/stat445/
 ---
 
 ## Topics
-- ...
+- Multivariate Random Variables and Distributions
+- Inference under Multivariate Normal Distribution
+- Multivariate Linear Regression
+- Principal Components and Factor Analysis
+- Discrimination and Classification
+- Clustering Analysis
 
 ## Course Information
 - **Syllabus:** [PDF](/files/stat445/STAT_445_645_syllabus.pdf)
