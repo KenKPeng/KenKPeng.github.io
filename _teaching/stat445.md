@@ -21,11 +21,11 @@ date: 2026-01-06
 - Clustering Analysis
 
 ## Course Information
-- **Syllabus:** [PDF](/files/stat445/STAT_445_645_syllabus.pdf)
-- **Tentative schedule:** [PDF](/files/stat445/STAT_445_645_timeline.pdf)
+- **Syllabus:** [PDF]({{ site.baseurl }}/files/stat445/STAT_445_645_syllabus.pdf)
+- **Tentative schedule:** [PDF]({{ site.baseurl }}/files/stat445/STAT_445_645_timeline.pdf)
 
 ## Lecture Notes
-- [Lecture 1: Course overview & motivation](/files/stat445/Introduction.pdf)
+- [Lecture 1: Course overview & motivation]({{ site.baseurl }}/files/stat445/Introduction.pdf)
 
 > These notes are lecture summaries provided for general reference only.  
 
