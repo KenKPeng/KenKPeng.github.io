@@ -26,6 +26,7 @@ date: 2026-01-06
 
 ## Lecture Notes
 - [Lecture 1: Course overview & motivation](/files/STAT445/Introduction.pdf)
+- [Lecture 2: review matrix algebra](/files/STAT445/week1B.pdf)
 
 > These notes are lecture summaries provided for general reference only.  
 
