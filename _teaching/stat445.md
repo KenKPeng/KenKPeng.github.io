@@ -30,5 +30,6 @@ date: 2026-01-06
 - [Lecture 3: review matrix algebra / random vectors](/files/STAT445/week2A.pdf)
 - [Lecture 4: random vectors/multivariate descriptive analysis](/files/STAT445/week2B.pdf)
 - [Lecture 5: multivariate normal distribution](/files/STAT445/Week3A.pdf)
+- [Lecture 6: multivariate normal distribution](/files/STAT445/week3B.pdf)
 > These notes are lecture summaries provided for general reference only.  
 
