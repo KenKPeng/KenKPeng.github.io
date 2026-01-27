@@ -31,5 +31,6 @@ date: 2026-01-06
 - [Lecture 4: random vectors/multivariate descriptive analysis](/files/STAT445/week2B.pdf)
 - [Lecture 5: multivariate normal distribution](/files/STAT445/Week3A.pdf)
 - [Lecture 6: multivariate normal distribution](/files/STAT445/week3B.pdf)
+- [Lecture 7: Inferences on Mean Vector](/files/STAT445/week4A.pdf)
 > These notes are lecture summaries provided for general reference only.  
 
