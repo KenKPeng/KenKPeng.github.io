@@ -32,5 +32,6 @@ date: 2026-01-06
 - [Lecture 5: multivariate normal distribution](/files/STAT445/Week3A.pdf)
 - [Lecture 6: multivariate normal distribution](/files/STAT445/week3B.pdf)
 - [Lecture 7: Inferences on Mean Vector](/files/STAT445/week4A.pdf)
+- [Lecture 8: Inferences on Mean Vector](/files/STAT445/week4B.pdf)
 > These notes are lecture summaries provided for general reference only.  
 
