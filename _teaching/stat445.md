@@ -35,5 +35,6 @@ date: 2026-01-06
 - [Lecture 8: Inferences on Mean Vector](/files/STAT445/week4B.pdf)
 - [Lecture 9: Comparisons of Several Mean Vectors](/files/STAT445/week5A.pdf)
 - [Lecture 10: Comparisons of Several Mean Vectors](/files/STAT445/week5B.pdf)
+- [Lecture 11: Classical Linear Regression](/files/STAT445/week6A.pdf)
 > These notes are lecture summaries provided for general reference only.  
 
