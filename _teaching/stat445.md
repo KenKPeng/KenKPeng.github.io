@@ -36,5 +36,8 @@ date: 2026-01-06
 - [Lecture 9: Comparisons of Several Mean Vectors](/files/STAT445/week5A.pdf)
 - [Lecture 10: Comparisons of Several Mean Vectors](/files/STAT445/week5B.pdf)
 - [Lecture 11: Classical Linear Regression](/files/STAT445/week6A.pdf)
+- [Lecture 12: Multivariate Linear Regression](/files/STAT445/week6B(1).pdf)
+- [Lecture 13: Discrimination and Classification](/files/STAT445/week8A.pdf)
+- [Lecture 14: Discrimination and Classification](/files/STAT445/week8B.pdf)
 > These notes are lecture summaries provided for general reference only.  
 
