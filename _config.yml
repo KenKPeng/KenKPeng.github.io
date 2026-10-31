@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ken (Kangyi) Peng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ken (Kangyi) Peng"
 description              : &description "Be strong"
 url                      : https://kenkpeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,8 +24,8 @@ author:
   avatar           : "1707366221027.png"
   name             : "Ken (Kangyi) Peng"
   pronouns         : # example: "he/him"  
-  bio              : "Ph.D. candidate"
-  employer         : "Simon Fraser University"
+  bio              : "Postdoctoral Fellow"
+  employer         : "University of Ottawa"
   uri              : # URL
   email            : "kangyi_peng@sfu.ca" 
 
